@@ -20,14 +20,14 @@
         </source>
         <source familyname="Source Sans Pro" filename="master_1/master.ufo" name="Master_1" stylename="Master 1">
             <location>
-                <dimension name="x_transparent_Chinese" xvalue="200" />
-                <dimension name="y_transparent_Chinese" xvalue="2400" />
+                <dimension name="x_transparent_Chinese" xvalue="2400" />
+                <dimension name="y_transparent_Chinese" xvalue="200" />
             </location>
         </source>
         <source familyname="Source Sans Pro" filename="master_2/master.ufo" name="Master_2" stylename="Master 2">
             <location>
-                <dimension name="x_transparent_Chinese" xvalue="2400" />
-                <dimension name="y_transparent_Chinese" xvalue="200" />
+                <dimension name="x_transparent_Chinese" xvalue="200" />
+                <dimension name="y_transparent_Chinese" xvalue="2400" />
             </location>
         </source>
         <source familyname="Source Sans Pro" filename="master_3/master.ufo" name="Master_3" stylename="Master 3">
