@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="97.0" maximum="99.0" minimum="97.0" name="unicode_variation" tag="vuid">
+            <labelname xml:lang="en">Unicode Variation</labelname>
+        </axis>
+    </axes>
+    <rules>
+        <rule name="Unicode Variation">
+            <condition maximum="99.0" minimum="97.0" name="unicode_variation" />
+            <sub name="a" with="b" />
+            <sub name="a" with="c" />
+        </rule>
+    </rules>
+    <sources>
+        <source familyname="Source Sans Pro" filename="master_0/master.ufo" name="Master_0" stylename="Default">
+            <lib copy="1" />
+            <groups copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="unicode_variation" xvalue="97" />
+            </location>
+        </source>
+        <source familyname="Source Sans Pro" filename="master_1/master.ufo" name="Master_1" stylename="Master 1">
+            <location>
+                <dimension name="unicode_variation" xvalue="98" />
+            </location>
+        </source>
+        <source familyname="Source Sans Pro" filename="master_2/master.ufo" name="Master_2" stylename="Master 2">
+            <location>
+                <dimension name="unicode_variation" xvalue="99" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Source Sans Pro" filename="instances/SourceSansPro-ExtraLight.ufo" name="ExtraLight" postscriptfontname="SourceSansPro-ExtraLight" stylename="ExtraLight">
+            <location>
+                <dimension name="unicode_variation" xvalue="97" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Source Sans Pro" filename="instances/SourceSansPro-Regular.ufo" name="Regular" postscriptfontname="SourceSansPro-Regular" stylename="Regular">
+            <location>
+                <dimension name="unicode_variation" xvalue="97.5" />
+            </location>
+            <glyphs>
+                <glyph name="a" unicode="0x61">
+                    <location>
+                        <dimension name="unicode_variation" xvalue="97.5" />
+                    </location>
+                    <masters>
+                        <master glyphname="b" source="Master_0">
+                            <location>
+                                <dimension name="unicode_variation" xvalue="97" />
+                            </location>
+                        </master>
+                        <master glyphname="b" source="Master_1">
+                            <location>
+                                <dimension name="unicode_variation" xvalue="98" />
+                            </location>
+                        </master>
+                        <master glyphname="b" source="Master_2">
+                            <location>
+                                <dimension name="unicode_variation" xvalue="99" />
+                            </location>
+                        </master>
+                    </masters>
+                </glyph>
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Source Sans Pro" filename="instances/SourceSansPro-Black.ufo" name="Black" postscriptfontname="SourceSansPro-Black" stylename="Black">
+            <location>
+                <dimension name="unicode_variation" xvalue="98.5" />
+            </location>
+            <glyphs>
+                <glyph name="a" unicode="0x61">
+                    <location>
+                        <dimension name="unicode_variation" xvalue="98.5" />
+                    </location>
+                    <masters>
+                        <master glyphname="c" source="Master_0">
+                            <location>
+                                <dimension name="unicode_variation" xvalue="97" />
+                            </location>
+                        </master>
+                        <master glyphname="c" source="Master_1">
+                            <location>
+                                <dimension name="unicode_variation" xvalue="98" />
+                            </location>
+                        </master>
+                        <master glyphname="c" source="Master_2">
+                            <location>
+                                <dimension name="unicode_variation" xvalue="99" />
+                            </location>
+                        </master>
+                    </masters>
+                </glyph>
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
