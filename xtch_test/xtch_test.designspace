@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="200" maximum="2400" minimum="200" name="x_transparent_Chinese" tag="xtch">
+            <labelname xml:lang="en">x transparent Chinese</labelname>
+        </axis>
+        <axis default="200" maximum="2400" minimum="200" name="y_transparent_Chinese" tag="ytch">
+            <labelname xml:lang="en">y transparent Chinese</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="Source Sans Pro" filename="master_0/master.ufo" name="Master_0" stylename="Default">
+            <lib copy="1" />
+            <groups copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="x_transparent_Chinese" xvalue="200" />
+                <dimension name="y_transparent_Chinese" xvalue="200" />
+            </location>
+        </source>
+        <source familyname="Source Sans Pro" filename="master_1/master.ufo" name="Master_1" stylename="Master 1">
+            <location>
+                <dimension name="x_transparent_Chinese" xvalue="200" />
+                <dimension name="y_transparent_Chinese" xvalue="2400" />
+            </location>
+        </source>
+        <source familyname="Source Sans Pro" filename="master_2/master.ufo" name="Master_2" stylename="Master 2">
+            <location>
+                <dimension name="x_transparent_Chinese" xvalue="2400" />
+                <dimension name="y_transparent_Chinese" xvalue="200" />
+            </location>
+        </source>
+        <source familyname="Source Sans Pro" filename="master_3/master.ufo" name="Master_3" stylename="Master 3">
+            <location>
+                <dimension name="x_transparent_Chinese" xvalue="2400" />
+                <dimension name="y_transparent_Chinese" xvalue="2400" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Source Sans Pro" filename="instances/SourceSansPro-Regular.ufo" name="Regular" postscriptfontname="SourceSansPro-Regular" stylename="Regular">
+            <location>
+                <dimension name="x_transparent_Chinese" xvalue="1000" />
+                <dimension name="y_transparent_Chinese" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

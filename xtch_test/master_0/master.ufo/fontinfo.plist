@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>880</integer>
+	<key>capHeight</key>
+	<integer>733</integer>
+	<key>descender</key>
+	<integer>-120</integer>
+	<key>familyName</key>
+	<string>Source Han Sans JP</string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/08/17 12:46:41</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Source Han Sans JP</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Smallest</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039600000000000003</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-250</integer>
+		<integer>-250</integer>
+		<integer>1100</integer>
+		<integer>1100</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>SourceHanSansJP-Smallest</string>
+	<key>postscriptFullName</key>
+	<string>Source Han Sans JP Smallest</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>58</integer>
+		<integer>65</integer>
+		<integer>84</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>63</integer>
+		<integer>73</integer>
+		<integer>89</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-150</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Smallest</string>
+	<key>trademark</key>
+	<string>Copyright 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>4</integer>
+	<key>xHeight</key>
+	<integer>543</integer>
+</dict>
+</plist>

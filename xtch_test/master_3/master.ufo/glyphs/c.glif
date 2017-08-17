@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="1">
+  <advance width="509"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="306" y="-13" type="curve"/>
+      <point x="371" y="-13"/>
+      <point x="433" y="12"/>
+      <point x="481" y="56" type="curve"/>
+      <point x="442" y="117" type="line"/>
+      <point x="408" y="86"/>
+      <point x="364" y="63"/>
+      <point x="314" y="63" type="curve"/>
+      <point x="214" y="63"/>
+      <point x="146" y="146"/>
+      <point x="146" y="271" type="curve"/>
+      <point x="146" y="396"/>
+      <point x="218" y="481"/>
+      <point x="316" y="481" type="curve"/>
+      <point x="360" y="481"/>
+      <point x="393" y="461"/>
+      <point x="425" y="432" type="curve"/>
+      <point x="472" y="493" type="line"/>
+      <point x="433" y="527"/>
+      <point x="384" y="557"/>
+      <point x="313" y="557" type="curve"/>
+      <point x="174" y="557"/>
+      <point x="51" y="452"/>
+      <point x="51" y="271" type="curve"/>
+      <point x="51" y="91"/>
+      <point x="162" y="-13"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-17 03:47:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>
